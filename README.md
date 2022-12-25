@@ -6,3 +6,8 @@ These are some examples of Python scripting projects you can do as a beginner ve
 There are two projects we are coding in this repo.
 #### 1.) YouTube Video Downloader.
 #### 2.) PDF Merger.
+
+### Go to the master branch to view the codes
+
+#### YTdownlaoder = python file_name.py (YT link)
+#### PDF Merger   = python file_name.py (PDF1) (PDF2)
